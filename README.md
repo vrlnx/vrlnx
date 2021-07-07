@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Discord
 - ⚡ Fun fact:
-  - I'm also creating botnet
+  - I'm creating botnet
 <!--
 - 🤔 I’m looking for help with ...
 -->
