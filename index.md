@@ -5,7 +5,7 @@ VRL is the author of vrl-package, owner of vrl.sh and Founder of the VRL Communi
 Quick links:
 - [vrl-package Gitlab](https://gitlab.com/vrl/vrl-package)
 - [https://about.vrl.sh/](https://about.vrl.sh/)
-- [VRL Community Discord](https://d.vrl.sh)
+- [VRL Community Discord](http://d.vrl.sh)
 
 
 ### Support or Contact
