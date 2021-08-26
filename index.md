@@ -10,4 +10,4 @@ Quick links:
 
 ### Support or Contact
 
-Having trouble with vrl-package? Check out our [documentation](https://gitlab.com/vrl/vrl-package/-/wikis/home) or [create a support ticket in Discord](https://discord.io/vrlnx) and we’ll help you sort it out.
+Having trouble with vrl-package? Check out our [documentation](https://gitlab.com/vrl/vrl-package/-/wikis/home) or [create a support ticket in Discord](http://d.vrl.sh) and we’ll help you sort it out.
