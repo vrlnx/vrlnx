@@ -10,7 +10,7 @@ Quick links:
 
 # Basic vrl-package rundown
 
-![image](https://github.com/vrlnx/vrlnx/blob/gh-pages/media/Pasted%20image%2020210828003002.png)
+![Unable to load remote image](https://github.com/vrlnx/vrlnx/blob/gh-pages/media/Pasted%20image%2020210828003002.png)
 
 ```bash
 # vrl-package comes with some commands
