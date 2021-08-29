@@ -1,14 +1,7 @@
-## About VRL
-
-VRL is the author of vrl-package, owner of vrl.sh domain and Founder of the VRL Community Discord
-
-Quick links:
-- [vrl-package Gitlab](https://gitlab.com/vrl/vrl-package)
-- [https://about.vrl.sh/](https://about.vrl.sh/)
-- [VRL Community Discord](http://d.vrl.sh)
+# About VRL-Package 
 
 
-# Basic vrl-package rundown
+## Basic vrl-package rundown
 
 ![Unable to load remote image](https://github.com/vrlnx/vrlnx/blob/gh-pages/media/Pasted%20image%2020210828003002.png)
 
