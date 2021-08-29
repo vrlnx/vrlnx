@@ -3,7 +3,7 @@
 
 ## Basic vrl-package rundown
 
-![Unable to load remote image](https://github.com/vrlnx/vrlnx/blob/gh-pages/media/Pasted%20image%2020210828003002.png)
+![[YouTube vrl-package Installation guide](https://www.youtube.com/watch?v=HF0Dqo51yHY)](https://www.youtube.com/watch?v=HF0Dqo51yHY)
 
 ```bash
 # vrl-package comes with some commands
