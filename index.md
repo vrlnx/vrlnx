@@ -20,10 +20,10 @@ $ vrl stop
 BYOB's web-gui will open on you local network and will be reachable from anywhere on your local network. To see your local and external IP type `vrl help`
 
 ### $ vrl stop
-`vrl stop`stops ongoing BYOB thread, this command is nice if BYOB crashes. You can then quickly start BYOB again using `vrl start`.
+`vrl stop` stops ongoing BYOB thread, this command is nice if BYOB crashes. You can then quickly start BYOB again using `vrl start`.
 
 ### $ vrl follow
-`vrl follow`tails the log ongoing in the BYOB thread, this command is nice if you want to monitor your BYOB instanse.
+`vrl follow` tails the log ongoing in the BYOB thread, this command is nice if you want to monitor your BYOB instanse.
 
 ### $ vrl help
 `vrl help` is the vrl-package's own help command, `vrl help` shows other commands vrl-package offers, along with your local and public IP.
