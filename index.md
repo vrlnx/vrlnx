@@ -3,7 +3,7 @@
 
 ## Basic vrl-package rundown
 
-![[YouTube vrl-package Installation guide](https://www.youtube.com/watch?v=HF0Dqo51yHY)](https://www.youtube.com/watch?v=HF0Dqo51yHY)
+[YouTube vrl-package Installation guide](https://www.youtube.com/watch?v=HF0Dqo51yHY)
 
 ```bash
 # vrl-package comes with some commands
