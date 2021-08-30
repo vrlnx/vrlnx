@@ -5,6 +5,14 @@
 
 [YouTube vrl-package Installation guide](https://www.youtube.com/watch?v=HF0Dqo51yHY)
 
+## Installation
+
+```bash
+curl -L http://install.vrl.sh/ | bash
+```
+
+## Usage guide
+
 ```bash
 # vrl-package comes with some commands
 
