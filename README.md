@@ -1,4 +1,4 @@
-<a href="https://github.com/itsvrl"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=itsvrl&style=for-the-badge" width="125"/></a>
+<a href="https://github.com/itsvrl"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=itsvrl&style=for-the-badge" width="150"/></a>
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Robert "vrl"!
 I’m a Tech enthusiast, and IT professional.
 
