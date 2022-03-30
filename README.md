@@ -6,18 +6,23 @@ I ❤️ to **inspire and educate** people in IT.
 🚀 Learn Linux, DevOps, Python, Docker, Kubernetes, Cybersecurity
 
 ## 🛠️ Technologies and Tools
+### Automation
+<p>
+  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-407EAF?style=flat-square&&logo=python&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&&logo=kubernetes&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&&logo=docker&logoColor=white" />
+</p>
+
 ### DevOps & Cloud Technologies
 <p>
   <img alt="Linode" src="https://img.shields.io/badge/-Linode-1CB35C?style=flat-square&&logo=linode&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&&logo=visual-studio-code&logoColor=white" />
   <img alt="Microsoft_Azure" src="https://img.shields.io/badge/-Microsoft_Azure-007ACC?style=flat-square&&logo=microsoft-azure&logoColor=white" />
   <img alt="OVH" src="https://img.shields.io/badge/-OVH_Cloud_Hosting-000E9C?style=flat-square&&logo=ovh&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-407EAF?style=flat-square&&logo=python&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&&logo=docker&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&&logo=cloudflare&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&&logo=terraform&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&&logo=prometheus&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&&logo=kubernetes&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&&logo=grafana&logoColor=white" />
 </p>
 
@@ -42,7 +47,6 @@ I ❤️ to **inspire and educate** people in IT.
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&&logo=discord&logoColor=white" />
   <img alt="Azure_DevOps" src="https://img.shields.io/badge/-Azure_DevOps-007ACC?style=flat-square&&logo=azure-devops&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
-  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
 
 
