@@ -41,6 +41,8 @@ I ❤️ to **inspire and educate** people in IT.
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&&logo=slack&logoColor=white" /> 
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&&logo=discord&logoColor=white" />
   <img alt="Azure_DevOps" src="https://img.shields.io/badge/-Azure_DevOps-007ACC?style=flat-square&&logo=azure-devops&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
+  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
 
 
