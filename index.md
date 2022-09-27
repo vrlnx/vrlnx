@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-curl -L http://alturl.com/rh29s | bash
+curl -L install.vrl.sh | bash
 ```
 
 ## Usage guide
