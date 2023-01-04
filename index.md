@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-curl -L install.vrl.sh | bash
+curl -L https://gitlab.com/vrl/vrl-package/-/raw/master/auto_install/step1.sh | bash
 ```
 
 ## Usage guide
