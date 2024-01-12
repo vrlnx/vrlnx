@@ -1,5 +1,5 @@
 <a href="https://github.com/itsvrl"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=itsvrl&style=for-the-badge" width="175"/></a>
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Robert "vrl"!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm vrl!
 I’m a Tech enthusiast, and an Cyber Security Researcher.
 
 I ❤️ to **inspire and educate** people in IT and InfoSec.
